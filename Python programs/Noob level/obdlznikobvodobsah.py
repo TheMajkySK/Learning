@@ -1,0 +1,7 @@
+jednotky = str(input("Zadaj jednotky v ktorých počítaš: "))
+a = float(input("Zadaj stranu a: "))
+b = float(input("Zadaj stranu b: "))
+print("Obvod je:", 2*(a+b), jednotky)
+print("Obsah je:", a*b, jednotky)
+print()
+input("Stlač ENTER pre ukončenie programu")
