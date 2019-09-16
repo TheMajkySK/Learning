@@ -3,4 +3,4 @@ for prem in range(10):
     print("KYS")
 print("======================")
 print()
-input("Press any ENTER to close program")
+input("Press ENTER to close program")
