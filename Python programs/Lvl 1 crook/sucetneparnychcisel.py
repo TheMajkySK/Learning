@@ -3,6 +3,6 @@ sucet = 0
 for i in range(0, n, 2):
     sucet = sucet + 1
     print(i, end = " ")
-print(f"Súčet nepárnych čísel od 1 do {n} je: {sucet}")
+print(f"\nSúčet nepárnych čísel od 1 do {n} je: {sucet}")
 print()
 input("Press ENTER to close program")
