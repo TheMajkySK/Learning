@@ -6,3 +6,5 @@ for i in range(3):
     samohlaska = random.choice("aeiouy")
     slovo = slovo + spoluhlaska + samohlaska
 print(slovo)
+print()
+input("Stlač ENTER pre ukončenie programu")
