@@ -5,3 +5,5 @@ for r in range(1, n + 1):
     for h in range (1, r + 1):
         print("*", end="")
     print()
+print()
+input("Stlač ENTER pre ukončenie programu")
