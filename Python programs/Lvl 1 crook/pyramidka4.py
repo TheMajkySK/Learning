@@ -5,8 +5,7 @@ for r in reversed(range(1, n + 1)):
     for h in range(1, r + 1):
         print("* ", end="")
     print()
-print
-print
+print()
 
 for r in reversed(range(0, n + 1)):
     print("  " * (n-r) + "* " * r)
