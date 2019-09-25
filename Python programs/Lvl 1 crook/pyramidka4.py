@@ -7,8 +7,8 @@ for r in reversed(range(1, n + 1)):
     print()
 print()
 
-for r in reversed(range(0, n + 1)):
-    print("  " * (n-r) + "* " * r)
+for r in reversed(range(0, n + 1)):   #skrateny zapis sa vypise rychlejsie 
+    print("  " * (n-r) + "* " * r)    # a zabera menej pamäte
 
 print()
 input("Stlač ENTER pre ukončenie programu")
