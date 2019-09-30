@@ -10,7 +10,7 @@ else:
     if D == 0:             # = je priradovaci prikaz, == sa pouziva na porovnavanie
         print("Kvadratická rovnica má jedno riešenie v R")
         x1 = -b/(2*a)
-        print("x1 =", x1)
+        print(f"x1 = {x1:6.3f}")
     else:
         print("Kvadratická rovnica má 2 riešenia v R")
         x1 = (-b + math.sqrt(D))/(2*a)
