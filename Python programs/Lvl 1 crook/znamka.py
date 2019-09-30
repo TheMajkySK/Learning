@@ -7,3 +7,5 @@ if x >= 30:
     print("Známka je lepšia ako 5")
 else:
     print("Známka je 5")
+print()
+input("Stlač ENTER pre ukončenie programu")
