@@ -31,7 +31,7 @@ while True:
     elif t < 45:
         t = 0
     canvas.update()
-    canvas.after(100)
+    canvas.after(200)
 
 
 canvas.mainloop()
