@@ -4,4 +4,4 @@
 import random
 for i in range(8):
     a = random.randint(ord("a"), ord("z"))
-    print (chr(a), end="")
+    print(chr(a), end="")
