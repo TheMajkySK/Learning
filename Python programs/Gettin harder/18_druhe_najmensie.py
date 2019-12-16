@@ -1,16 +1,15 @@
 import random
 
 def druhe_najmensie(cis):
-    minim = cis[0]
-    pocet = 0
-    zoz = [0]
-    for i in range(len(cis)):
-        x = cis[i]
-        if x < minim:
-            minim = x
-            zoz.append(minim)
-        y = len(zoz)-1
-    return zoz[y], minim
+    prvy = cis[0]
+    druhy = cis[1]
+
+    for c in cis:
+        if c < prvy:
+            druhy = prvy
+            prvy = c
+
+    return druhy
 
 
 
