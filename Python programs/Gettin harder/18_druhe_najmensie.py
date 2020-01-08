@@ -1,18 +1,13 @@
 import random
 
 def druhe_najmensie(cis):
-    prvy = cis[0]
-    druhy = cis[1]
-
-    for c in cis:
-        if c < prvy:
-            druhy = prvy
-            prvy = c
-
-    return druhy
-
-
-
+    m1, m2 = float('inf'), float('inf')
+    for x in cis:
+        if x <= m1:
+            m1, m2 = x, m1
+        elif x < m2:
+            m2 = x
+    return m2
 
 
 cislo = 0

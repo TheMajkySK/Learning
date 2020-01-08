@@ -1,14 +1,12 @@
-import random
-n = 20
-z = []
+def vymen(zoz, i, j):
+    zoz[i], zoz[j] = zoz[j], zoz[i]
 
-for i in range(n):
-    z.append(random.randint(1,1000))
-    print(z[i], end=", ")
+def bubble_sort(zoz):
+    for i in range(len(zoz)):
+        for j in range(len(zoz)-1):
+            if zoz[j] > zoz[j+1]:
+                vymen(zoz, j, j+1)
+        print(*zoz)
 
-test = True
-i = 1
-while test:
-    for j in range(0,i):
-        if z[j] < z[j + 1]:
-            z[j]<[j + 1] = z[j + 1], z[j]
+z = [13, 7, 11, 3, 5, 2]
+bubble_sort(z)
