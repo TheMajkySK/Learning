@@ -31,9 +31,10 @@ z = dlzky(zoznam)
 print(z)
 mhod = max(z)
 p = 0
+izoz = []
 for i in range(len(z)):
     if mhod != z[i]:
         p += 1
     elif mhod == z[i]:
-        break        
+        break
 print(zoznam[p])
