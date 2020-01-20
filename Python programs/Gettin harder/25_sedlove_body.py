@@ -19,8 +19,8 @@ for i in range(n):
 for r in range(n):
     smin = z[r].index(min(z[r]))
     test = True
-    for s in range(n):
-        if z[r][s] > z[r][smin]:
+    for riadok in range(n):
+        if z[riadok][smin] > z[r][smin]:
             test = False
             break
     if test:
