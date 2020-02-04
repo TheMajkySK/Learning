@@ -1,1 +1,9 @@
-Ahoj
+Meno:Mikuláš Malcovský
+Mesto:Brezovica
+Adresa:Brezovica 408
+PSČ:08274
+
+Meno: Sebastián Petrík
+Mesto: Lipany
+Adresa: Namestie sv. Martina 46
+PSČ: 08271
