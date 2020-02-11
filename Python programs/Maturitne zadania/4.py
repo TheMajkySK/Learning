@@ -19,5 +19,5 @@ txt = open("d:\maturita\zaporne.txt", "w", "utf-8")
 for i in range(len(z)):
     if z[i] < 0:
         print(z[i], end=", ")
-        txt.write(str(z[i]) + " ")
+        txt.write(str(z[i]) + ", ")
 txt.close()
