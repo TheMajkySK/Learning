@@ -5,9 +5,11 @@ def kil():
     ch = p_chc.get()
     d = p_dni.get()
     nch = int(ch)-int(n)
+    c = nch / int(d)
+    c = round(c, 2)
 
-    label1 = tkinter.Label(text= int(nch)/int(d),font= "Arial 25 bold")
-    canvas.create_window(300,160,window= label1)
+    label1 = tkinter.Label(text= c,font= "Arial 25 bold")
+    canvas.create_window(400,160,window= label1)
 
 canvas = tkinter.Canvas(width=700, height=300)
 canvas.pack()
