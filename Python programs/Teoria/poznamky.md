@@ -5,3 +5,7 @@
     - prve 3 cisla - vyrobca, dalsie 3 cisla - cislo karty u vyrobcu
 ## Delenie PC sietí
 ### 1 - podľa vzdialenosi medzi PC
+- A) LAN - Local area network - 100m
+- B) MAN - Metropolitan area network
+- C) WAN - Wide area network
+- D) PAN
