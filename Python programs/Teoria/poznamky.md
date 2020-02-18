@@ -14,3 +14,9 @@
 - B) sieť so serverom
 - klient - A) počítač ktory vyuziva sluzby severa 
 -          B) program ktory vyuziva sluzby severa(browser, Mozilla Thuinderbird)
+### 3 - podľa topológie(rozmiestnenie jednotlivých PC)
+- zbernicová - PC súťažia že kto bude vysielať
+- hviezdicová - potrebujeme switch a sietove kable su v tvare hviezdice
+- switch - zariadenie ktore pouziva na prepojienie MAC adresy
+- stromová - viacero switchov zapojenych na dalsi switch
+- kruhová - karty - Token ring(spôsob prístupu k prenosovému médiu) - kto ma token môže vysielať
