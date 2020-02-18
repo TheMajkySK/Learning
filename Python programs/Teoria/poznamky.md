@@ -8,4 +8,9 @@
 - A) LAN - Local area network - 100m
 - B) MAN - Metropolitan area network
 - C) WAN - Wide area network
-- D) PAN
+- D) PAN - Personal area network (Je to vlastne LAN)
+### 2 - podľa postavenia(úlohy jednotlivych PC)
+- A) peer to peer - rovny s rovnym - kazdy pc je rovnocenny
+- B) sieť so serverom
+- klient - A) počítač ktory vyuziva sluzby severa
+-          B) program ktory vyuziva sluzby severa(browser, Mozilla Thuinderbird)
