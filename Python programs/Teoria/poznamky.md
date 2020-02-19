@@ -24,3 +24,24 @@
 - **switch** - zariadenie ktore pouziva na prepojienie MAC adresy
 - **stromová** - viacero switchov zapojenych na dalsi switch
 - **kruhová** - karty - Token ring(spôsob prístupu k prenosovému médiu) - kto ma token môže vysielať
+
+- **router** 
+    - zariadenie, ktore prepaja rozne siete fungujuce na protokole IP, preberá údaje z jednej siete(napr. lokalnej) a posiela ichna rôzne ciele v nadradenej siete
+    - môže obsahovat bezpecnostne mechanizmy chraniace vnutorne zariadenia siete pred nechcenymi prenikmi z vonkajších sietí
+    - informacie posiela v paketoch
+- **paketová komunikácia** 
+    - dáta v sieťach sa prenášajú tak že sa rozdelia na menšie časti(pakety)
+    - **paket** - ucelený blok ktorý sa prenáša ako celok
+    - **hlavička** 
+        - **source IP** - zdroj, odosielateľ  
+        - **destination IP** - cieľ
+        - **heder chcksum** - zistí či sa niečo nezmenilo
+    - každý paket môže byť doručený do cieľa inou cestou a v inom poradí
+    - gateway(brána) - väčšinou router, slúži ako prístupový bod pre PC do internetu, resp. do inej siete
+
+- **DNS** 
+    - domain name system
+    - systém prideľovania mien k IP adresám
+- **DNS Server**
+    - má tabuľku mien a k nim prislúchajúce IP adresy
+    - keď v prehliadači napíšeme dómenu počítač sa "opýta" DNS servera, aká je IP adresa
