@@ -15,7 +15,7 @@
 - A) peer to peer - rovny s rovnym - kazdy pc je rovnocenny
 - B) sieť so serverom
 - klient - A) počítač ktory vyuziva sluzby severa 
--          B) program ktory vyuziva sluzby severa(browser, Mozilla Thuinderbird)
+         - B) program ktory vyuziva sluzby severa(browser, Mozilla Thuinderbird)
 - server - obsluhuju klienta
 ### 3 - podľa topológie(rozmiestnenie jednotlivých PC)
 - zbernicová - PC súťažia že kto bude vysielať
