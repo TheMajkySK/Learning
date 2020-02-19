@@ -16,6 +16,7 @@
 - B) sieť so serverom
 - klient - A) počítač ktory vyuziva sluzby severa 
 -          B) program ktory vyuziva sluzby severa(browser, Mozilla Thuinderbird)
+- server - obsluhuju klienta
 ### 3 - podľa topológie(rozmiestnenie jednotlivých PC)
 - zbernicová - PC súťažia že kto bude vysielať
 - hviezdicová - potrebujeme switch a sietove kable su v tvare hviezdice
