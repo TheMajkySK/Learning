@@ -45,3 +45,31 @@
 - **DNS Server**
     - má tabuľku mien a k nim prislúchajúce IP adresy
     - keď v prehliadači napíšeme dómenu počítač sa "opýta" DNS servera, aká je IP adresa
+
+- **médiá pri prenose v sieti**
+    - metalické káble
+    - optické káble
+    - elektromagnetické vlnenie
+
+- **TLD (top level domain) - dómena prvej úrovne**
+    - .sk, .cz, .au, .com, .org, ...
+
+- **ako získam dómenu 2.úrovne**
+    - oslovím registrátora
+    - registrátor sa pokúsi zaregistrovat túto doménu s poskytovateľom domény
+
+- **DHCP (Dynamic host configuration protocol)**
+    - protokol ktory sa poziva na automaticke pridelovanie IP adries zariadeniam (resp. sieťovým kartám)
+
+- **DHCP Server**
+    - dynamicky (automaticky) prideluje IP adresy
+    - po zapnutí PC požiada OS cez broadcast adresu o pridelenie IP adresy
+    - **broadcast adresa** 
+        - **1.typ:** 255.255.255.255
+        - **2.typ:** číslo siete a na konci 255 (napr. 192.16.8.1.255)
+        - všetky zariadenia v sieti počúvajú na tej broadcast adrese, ak je v sieti DHCP server, tak obslúži požiadavku
+
+- **FTP (File transfer protocol):** prenos súborov
+- **telnet:** vzdialené pripojenie
+- **SSH (secure shell):** šiforvané vzdialené pripojenie
+- **https (hypertext transfer protocol):** 
