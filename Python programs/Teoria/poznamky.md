@@ -73,3 +73,23 @@
 - **telnet:** vzdialené pripojenie
 - **SSH (secure shell):** šiforvané vzdialené pripojenie
 - **https (hypertext transfer protocol):** 
+
+# Hardware
+- **technické vybavenie počítača**
+- procesor (CPU), matičná doska, grafická karta (GPU), RAM (Random Acces Memory), napájací zdroj, oprická mechanika, HDD, SSD, dalšie rozširujúce karty, myš, klávesnica, monitor, tlačiareň, slúchadlá, reproduktory
+- **CPU**
+    - mikroprocesor, integrovaný obvod, obsahuje niekoľko desitok miliónov tranzistorov
+    - **dve základné časti**
+        - riadiaca jednotka
+        - aritmeticko-logická jednotka (ALU)
+
+- **tranzistor**
+    - polovodičová súčiastka
+    - PNP alebo NPN
+    - vieme vytvárať logické obovody
+
+- **MOBO**
+    - chipset, typ socketu, pci PCIe, USB porty, integrovaná grafická karta, zvuková karty, BIOS
+    - **princíp práce**
+        - **4 takty** - načítanie, rozkodovanie, komunikovanie s RAM, vstupno - vystupne zariadenie
+    
