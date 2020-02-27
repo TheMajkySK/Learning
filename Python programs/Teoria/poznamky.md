@@ -92,4 +92,7 @@
     - chipset, typ socketu, pci PCIe, USB porty, integrovaná grafická karta, zvuková karty, BIOS
     - **princíp práce**
         - **4 takty** - načítanie, rozkodovanie, komunikovanie s RAM, vstupno - vystupne zariadenie
-    
+
+- **GPU**
+    - generuje signaly pre monitor, podla obsahu video pamäte (grafické rozlíšenie), do vdieopamäte zapisuje procesor
+    - pri integrovanej grafickej karte môžeme veľkosť vyhradenej pamäte pre jej činnosť môžeme nastaviť v BIOS-e
