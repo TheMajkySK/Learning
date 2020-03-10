@@ -96,3 +96,15 @@
 - **GPU**
     - generuje signaly pre monitor, podla obsahu video pamäte (grafické rozlíšenie), do vdieopamäte zapisuje procesor
     - pri integrovanej grafickej karte môžeme veľkosť vyhradenej pamäte pre jej činnosť môžeme nastaviť v BIOS-e
+
+# Suborove systémy
+- **FAT** - File Allocation Table
+    - = Tabuľka umiestnenia súborov
+    - meno + jeho adresa v dátovej časti pamäti
+- **NTFS vs FAT32 (používame bežne vo Windowse)?**
+    - vo FAT32 nie sú práva k súborom
+    - vo FAT32 nemože byť súbor váčší ako 4 GB
+    - **oprávnenia** 
+        - ![](permissions.png)
+- **Čo je formátovanie ?**
+    - pri formátovaní sa vytvorí nová tabuľka súborového systému
