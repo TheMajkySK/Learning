@@ -108,3 +108,16 @@
         - ![](permissions.png)
 - **Čo je formátovanie ?**
     - pri formátovaní sa vytvorí nová tabuľka súborového systému
+
+# Operačný systém
+- Operačný systém pošle pomocou driveru tlačiarni co ma robiť
+- monitor: OS generuje signály pre grafickú kartu a zapisuje ich do VRAM GPU a GPU generuije signály do monitoru
+- prepína medzi procesmi (multitasking), viacej applikacií môže bežať súčasne
+- jednouživateľský a viacuživateľský OS
+
+# Tlačiarne
+- **typy:** laserové, atramentové, ihličkové, 3D
+- **DPI (dots per inch):** rozlíšenie
+- **rýchlosť tlače**
+- laserové = kancelária
+- atramentové = fotky
