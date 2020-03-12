@@ -121,3 +121,9 @@
 - **rýchlosť tlače**
 - laserové = kancelária
 - atramentové = fotky
+
+# Grafika
+- **Rastrová grafika**
+    - obraz sa skladá z pixelov a my tvoríme obraz vyfarbovaním pixelov
+    - do súboru sa ukladá informácia o farbe každého bodu obrázka
+    - **komprimované formáty:** zmenšenie pamäťovej kapacity priemerovanim farieb viacerých bodov naraz, napr. jpg, atd.
