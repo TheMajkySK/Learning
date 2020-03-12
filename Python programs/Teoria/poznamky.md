@@ -127,3 +127,10 @@
     - obraz sa skladá z pixelov a my tvoríme obraz vyfarbovaním pixelov
     - do súboru sa ukladá informácia o farbe každého bodu obrázka
     - **komprimované formáty:** zmenšenie pamäťovej kapacity priemerovanim farieb viacerých bodov naraz, napr. jpg, atd.
+
+# Digitálny fotoaparát
+- zákl. súčiastka je **snímač:** svetlocitlivá polovodičová súčiastka
+- **rozlíšenie:** počet bodov
+- **optická sústava:** napr.šošovky, zrkadlá, usmernuje svetlo na snímač
+- **procesor:** spracováva údaje
+- štandard rozlíšenia: 8Mgbit
